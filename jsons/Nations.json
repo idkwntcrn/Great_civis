@@ -1,13 +1,13 @@
 [
 	{
 		"name": "Israel",
-		"leaderName": "David",
+		"leaderName": "Matthias Maccabees",
 		"adjective": ["Israeli"],
 		"startBias": ["Desert","Avoid [Jungle]","Avoid [Forest]","Avoid [Tundra]"],
 		"preferredVictoryType": "Cultural",
 		
-		"startIntroPart1": "Oh Great King David, The Jewish People call for your return, May you bring peace, prosperity and force if you must, oh great King of Israel",
-		"startIntroPart2": "You who have brought Israel into light, You must bring once more into it!",
+		"startIntroPart1": "Oh Great Ruler Matthias, The Jewish People call for your return, May you bring peace, prosperity and force if you must, oh great King of Israel",
+		"startIntroPart2": "You who have brought Israel into light from darkness, You must bring once more into it!",
 		
 		"declaringWar": "It seems peace wasnt an option",
 		"attacked": "I will show you why WE WERE CHOSEN!!",
@@ -31,7 +31,7 @@
 		"innerColor": [	51, 153, 255],
 		"favoredReligion": "Judaism",
 		"uniqueName": "Promised Land",
-		"uniques": ["[+2 Food, +2 Faith] from every [Pasture]","[+2 Food, +2 Faith] from every [Farm]","[+1 Faith, +1 Happiness] per [4] population [in all cities]"],
+		"uniques": ["[+2 Food, +2 Faith] from every [Pasture]","[+2 Food,+1 Gold] [in all cities] <with [3] to [6] neighboring [{Desert}] tiles>","[+2 Food,+1 Gold] [in all cities] <with [3] to [6] neighboring [{Plains}] tiles>","May choose [1] additional belief(s) of any type when [founding] a religion","[+1 Faith, +1 Happiness] per [4] population [in all cities]"],
 		"cities": ["Jerusalem","Hebron","Gaza","Jericho","Bethlehem","Nazareth","Meggido","Beer-Sheba","Judah",
 			"Hazor","Michmash","Caesarea","Emmaus","Tirzah","Gilgal","Joppa","Shiloh","Ashdod","Ashkelton",
 			"Samara","Gezer","Gibeon","Tamar","Geba","Gath","Avaris","Dan","Jebesh-Gilead"]
