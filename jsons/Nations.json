@@ -31,7 +31,7 @@
 		"innerColor": [	51, 153, 255],
 		"favoredReligion": "Judaism",
 		"uniqueName": "Promised Land",
-		"uniques": ["[+2 Food, +2 Faith] from every [Pasture]","[+2 Food,+1 Gold] [in all cities] <with [3] to [6] neighboring [Desert] tiles>","[+2 Food,+1 Gold] [in all cities] <with [3] to [6] neighboring [Plains] tiles>","May choose [1] additional belief(s) of any type when [founding] a religion","[+1 Faith, +1 Happiness] per [4] population [in all cities]"],
+		"uniques": ["[+2 Food, +2 Faith] from every [Pasture]","[+2 Food, +1 Production, +1 Faith] from every [Desert]","[+2 Food, +1 Production, +1 Faith] from every [Plains]","May choose [1] additional belief(s) of any type when [founding] a religion","[+1 Faith, +1 Happiness] per [4] population [in all cities]"],
 		"cities": ["Jerusalem","Hebron","Gaza","Jericho","Bethlehem","Nazareth","Meggido","Beer-Sheba","Judah",
 			"Hazor","Michmash","Caesarea","Emmaus","Tirzah","Gilgal","Joppa","Shiloh","Ashdod","Ashkelton",
 			"Samara","Gezer","Gibeon","Tamar","Geba","Gath","Avaris","Dan","Jebesh-Gilead"]
