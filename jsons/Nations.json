@@ -32,7 +32,7 @@
 		"favoredReligion": "Judaism",
 		"uniqueName": "Promised Land",
 		"uniques": ["[+25]% [Faith] [in all cities]",
-			"[+6] [Culture] from every [Holy Site] [Great Improvement] [in all cities]",
+			"[+2 Faith, +2 Culture, +2 Gold] from all [Faith] buildings"
 			"[-75]% Unhappiness from [Population] [in all cities]","[+50]% growth [in capital]",
 			"[+2 Faith, +4 Food] per [4] population [in all cities]",],
 		"cities": ["Jerusalem","Hebron","Gaza","Jericho","Bethlehem","Nazareth","Meggido","Beer-Sheba","Judah",
